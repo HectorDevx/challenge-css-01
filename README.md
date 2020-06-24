@@ -1,7 +1,3 @@
----
-permalink: /index.html
----
-
 # challenge-css-01
 
 1. Maquetar un sitio (A tu gusto.)
